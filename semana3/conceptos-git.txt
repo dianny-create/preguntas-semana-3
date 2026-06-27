@@ -1,0 +1,21 @@
+Repositorio: espacio donde se guardan los archivos y cambios de un proyecto
+REAPUESTA:Un repositorio (o repo) es el almacén central donde 
+se guardan, organizan y mantienen todos los archivos, carpetas 
+y el historial de cambios de un proyecto. Es fundamental en el 
+control de versiones, ya que permite llevar un registro exacto de 
+cada modificación realizada.
+
+Commit: registro de cambios realizado en un momento específico.
+RESPUESTA:Un commit es una "instantánea" (snapshot) 
+del estado de un proyecto en un momento específico. En sistemas 
+de control de versiones como Git, registra los cambios realizados 
+en los archivos junto con un mensaje descriptivo, el autor y la
+ fecha, creando un historial rastreable.
+
+ Push: acción de enviar los cambios desde el computador o Codespaces hacia GitHub.
+ RESPUESTA:El push es la acción fundamental en Git y GitHub para 
+ sincronizar tu trabajo. Este comando toma las confirmaciones
+  (commits) que has guardado en tu entorno local (computador o 
+  Codespaces) y las envía al repositorio remoto en la nube,
+   publicando tu código para que otros colaboradores puedan verlo
+   
